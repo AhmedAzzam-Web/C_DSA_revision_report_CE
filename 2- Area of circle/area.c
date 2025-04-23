@@ -13,3 +13,9 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Enter the radius of the circle: 2
+The area of the circle is: 12.57
+*/

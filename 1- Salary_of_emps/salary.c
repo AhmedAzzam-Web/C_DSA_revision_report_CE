@@ -16,3 +16,10 @@ void main()
     net_salary = salary - HRA - TA;
     printf("Salary: %0.2f\n", net_salary);
 }
+
+/*
+Snapshot: with code snap in vs code :)
+Output:
+Enter your salary: 5000
+Salary: 4250.00
+*/

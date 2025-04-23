@@ -24,3 +24,9 @@ void main()
     }
     printf("The ASCII value of the character is: %d\n", c);
 }
+/*
+Output:
+Enter a character: 4
+The character is a digit.
+The ASCII value of the character is: 52
+*/
